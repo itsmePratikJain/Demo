@@ -1,0 +1,146 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "BookingId":"CBX0001", 
+        "from": "Ahmedabad",
+        "to":"Rajkot",
+        "triptype":"One Way",
+        "pickupdate":"20/05/2024",
+        "pickuptime":"20:00:00",
+        "paumentstatus":"Done",
+        "fare":"2500",
+        "carNumber":"GJ04BZ7515",
+        "customerName":"Devbhai",
+        "customerNUmber":"7859852223",
+        "Driver":"papad",
+        "DriverNumber":"852654755",
+        "OriginalBooking":"sagar Shah",
+        "OriginalBooking Fare":"500",
+        "Car Owner":"Viral Shah",
+        "Car Owner Fare":"1500",
+        "Commision":"500"
+      },
+      {
+        "id": 2,
+        "BookingId":"CBX0002", 
+        "from": "Ahmedabad",
+        "to":"Rajkot",
+        "triptype":"One Way",
+        "pickupdate":"20/05/2024",
+        "pickuptime":"20:00:00",
+        "paumentstatus":"Done",
+        "fare":"2500",
+        "carNumber":"GJ04BZ7515",
+        "customerName":"Devbhai",
+        "customerNUmber":"7859852223",
+        "Driver":"papad",
+        "DriverNumber":"852654755",
+        "OriginalBooking":"sagar Shah",
+        "OriginalBooking Fare":"500",
+        "Car Owner":"Viral Shah",
+        "Car Owner Fare":"1500",
+        "Commision":"500"
+      },
+      {
+        "id": 3,
+        "BookingId":"CBX0003", 
+        "from": "Ahmedabad",
+        "to":"Rajkot",
+        "triptype":"One Way",
+        "pickupdate":"20/05/2024",
+        "pickuptime":"20:00:00",
+        "paumentstatus":"Done",
+        "fare":"2500",
+        "carNumber":"GJ04BZ7515",
+        "customerName":"Devbhai",
+        "customerNUmber":"7859852223",
+        "Driver":"papad",
+        "DriverNumber":"852654755",
+        "OriginalBooking":"sagar Shah",
+        "OriginalBooking Fare":"500",
+        "Car Owner":"Viral Shah",
+        "Car Owner Fare":"1500",
+        "Commision":"500"
+      },
+      {
+        "id": 4,
+        "BookingId":"CBX0004", 
+        "from": "Ahmedabad",
+        "to":"Rajkot",
+        "triptype":"One Way",
+        "pickupdate":"20/05/2024",
+        "pickuptime":"20:00:00",
+        "paumentstatus":"Done",
+        "fare":"2500",
+        "carNumber":"GJ04BZ7515",
+        "customerName":"Devbhai",
+        "customerNUmber":"7859852223",
+        "Driver":"papad",
+        "DriverNumber":"852654755",
+        "OriginalBooking":"sagar Shah",
+        "OriginalBooking Fare":"500",
+        "Car Owner":"Viral Shah",
+        "Car Owner Fare":"1500",
+        "Commision":"500"
+      }
+    ],
+    "profile": {
+      "name": "Viral Shah"
+    },
+    "Driver": [
+        {
+            "Id":"1",
+            "Name":"papad",
+            "Phonenumber":"8654585236",
+            "Verification":"Done",
+            "Is Avaliable": "Unavaliable",
+            "Address":"Porbandar"
+        },
+        {
+            "Id":"3",
+            "Name":"papad",
+            "Phonenumber":"8654585236",
+            "Verification":"Done",
+            "Is Avaliable": "Unavaliable",
+            "Address":"Porbandar"
+        },
+        {
+            "Id":"3",
+            "Name":"papad",
+            "Phonenumber":"8654585236",
+            "Verification":"Done",
+            "Is Avaliable": "Unavaliable",
+            "Address":"Porbandar"
+        },
+        {
+            "Id":"4",
+            "Name":"papad",
+            "Phonenumber":"8654585236",
+            "Verification":"Done",
+            "Is Avaliable": "Unavaliable",
+            "Address":"Porbandar"
+        }
+    ],
+    "Cars":[
+      {
+        "Id":"1",
+        "carnumber":"GJ04BZ7515",
+        "cartype":"Sedan"
+      },
+      {
+        "Id":"2",
+        "carnumber":"GJ04BZ7515",
+        "cartype":"Sedan"
+      },
+      {
+        "Id":"3",
+        "carnumber":"GJ04BZ7515",
+        "cartype":"Sedan"
+      },{
+        "Id":"4",
+        "carnumber":"GJ04BZ7515",
+        "cartype":"Sedan"
+      }
+    ]
+  }
